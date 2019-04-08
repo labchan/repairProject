@@ -1,0 +1,16 @@
+{
+  "name": "repair_maint",
+  "version": "1.0.0",
+  "description": "repair maintenance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dickey",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
